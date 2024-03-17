@@ -260,7 +260,7 @@ x[298.Binary-Tree-Longest-Consecutive Sequence](https://github.com/wisdompeak/Le
 x[450.Delete-Node-in-a-BST](https://github.com/wisdompeak/LeetCode/tree/master/Tree/450.Delete-Node-in-a-BST) (H)    
 x[437.Path-Sum-III](https://github.com/wisdompeak/LeetCode/tree/master/Tree/437.Path-Sum-III) (H-)   
 x[333.Largest-BST-Subtree](https://github.com/wisdompeak/LeetCode/blob/master/Tree/333.Largest-BST-Subtree) (H)    
-[572.Subtree-of-Another-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/572.Subtree-of-Another-Tree) (M)   
+v[572.Subtree-of-Another-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/572.Subtree-of-Another-Tree) (M)   
 [549.Binary-Tree-Longest-Consecutive-Sequence-II](https://github.com/wisdompeak/LeetCode/tree/master/Tree/549.Binary-Tree-Longest-Consecutive-Sequence-II) (M)   
 [173.Binary-Search-Tree-Iterator](https://github.com/wisdompeak/LeetCode/tree/master/Stack/173.Binary-Search-Tree-Iterator) (M)   
 [545.Boundary-of-Binary-Tree](https://github.com/wisdompeak/LeetCode/tree/master/Tree/545.Boundary-of-Binary-Tree) (H-)     
@@ -1019,7 +1019,7 @@ x[333.Largest-BST-Subtree](https://github.com/wisdompeak/LeetCode/blob/master/Tr
 [2261.K-Divisible-Elements-Subarrays](https://github.com/wisdompeak/LeetCode/tree/master/String/2261.K-Divisible-Elements-Subarrays) (H-)      
 [2781.Length-of-the-Longest-Valid-Substring](https://github.com/wisdompeak/LeetCode/tree/master/String/2781.Length-of-the-Longest-Valid-Substring) (H-)      
 * ``KMP``   
-[1392.Longest-Happy-Prefix](https://github.com/wisdompeak/LeetCode/tree/master/String/1392.Longest-Happy-Prefix) (H)    
+v[1392.Longest-Happy-Prefix](https://github.com/wisdompeak/LeetCode/tree/master/String/1392.Longest-Happy-Prefix) (H)    
 [028.Implement-strStr](https://github.com/wisdompeak/LeetCode/tree/master/String/028.Implement-strStr) (H)    
 [214.Shortest-Palindrome](https://github.com/wisdompeak/LeetCode/blob/master/String/214.Shortest-Palindrome) (H)     
 [459.Repeated-Substring-Pattern](https://github.com/wisdompeak/LeetCode/tree/master/String/459.Repeated-Substring-Pattern) (H)    
